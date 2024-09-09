@@ -11,10 +11,6 @@
     <div class="bg-image main">
         <div class="container">
             <h1>教職員登入</h1>
-            <center>
-                <p>id : T12345</p>
-                <p>password : password</p>
-            </center>
             <?php include_once "./login_alert.php" ?>
             <form action="../login_register/login.php" method="post">
                 <div class="col-12 my-4">
