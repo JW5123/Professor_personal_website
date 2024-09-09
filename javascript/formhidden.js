@@ -19,6 +19,6 @@ function handleSubmit(event) {
 
     hideForm();
 
-    // alert('表单提交成功！');
-    // console.log('表单数据已提交');
+    // alert('表單提交成功！');
+    // console.log('表單資料已提交');
 }
