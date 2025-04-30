@@ -5,6 +5,13 @@
   內容資料來源為 <a href="https://www.iecs.fcu.edu.tw/teacher/#FT" target="_blank">逢甲大學系所成員</a> 公開資訊
 </p>
 
+<p align="center">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</p>
+
 #### 前端頁面
 ![前端](assets/frontend.png)
 #### 登入系統
