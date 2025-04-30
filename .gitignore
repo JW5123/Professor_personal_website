@@ -1,2 +1,4 @@
+.gitignore
 Database/config.php
 mailset
+image
