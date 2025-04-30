@@ -21,18 +21,18 @@
 #### 預約系統
 使用PHPMailer傳送預約申請通知信件
 
-預約表單填寫 & 後台名單顯示
-<details>
-    <summary>查看圖片</summary>
-    <img src="assets/appointment.png" alt="預約表單" width="700"height="400">
-    <img src="assets/record.png" alt="預約紀錄" width="700" height="400">
+- 預約表單填寫 & 後台名單顯示
+    <details>
+        <summary>查看圖片</summary>
+        <img src="assets/appointment.png" alt="預約表單" width="700"height="400">
+        <img src="assets/record.png" alt="預約紀錄" width="700" height="400">
 </details>
 
-gmail預約通知格式
-<details>
-    <summary>查看圖片</summary>
-    <p align="">
-        <img src="assets/mail1.jpg" alt="系統架構圖" width="300" height="300">
-        <img src="assets/mail2.jpg" alt="系統架構圖" width="300" height="300">
-    </p>
-</details>
+- gmail預約通知格式
+    <details>
+        <summary>查看圖片</summary>
+        <p align="">
+            <img src="assets/mail1.jpg" alt="系統架構圖" width="300" height="300">
+            <img src="assets/mail2.jpg" alt="系統架構圖" width="300" height="300">
+        </p>
+    </details>
