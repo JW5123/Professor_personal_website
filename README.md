@@ -17,8 +17,8 @@
 預約表單填寫 & 後台名單顯示
 <details>
     <summary>查看圖片</summary>
-    <img src="assets/appointment.png" alt="系統架構圖" width="700"height="400">
-    <img src="assets/record.png" alt="系統架構圖" width="700" height="400">
+    <img src="assets/appointment.png" alt="預約表單" width="700"height="400">
+    <img src="assets/record.png" alt="預約紀錄" width="700" height="400">
 </details>
 
 gmail預約通知格式
