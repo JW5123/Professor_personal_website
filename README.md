@@ -31,7 +31,7 @@
 
 
 Gmail預約通知
-<p align="center">
-    <img src="assets/mail1.jpg">
-    <img src="assets/mail2.jpg">
+<p align="">
+    <img src="assets/mail1.jpg" width="300" height="300">
+    <img src="assets/mail2.jpg" width="300" height="300">
 </p>
