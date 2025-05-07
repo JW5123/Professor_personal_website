@@ -6,10 +6,12 @@
 </p>
 
 <p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
 ### 前端頁面
@@ -21,18 +23,15 @@
 ### 預約系統
 使用PHPMailer傳送預約申請通知信件
 
-- 預約表單填寫 & 後台申請名單顯示
-    <details>
-        <summary>查看圖片</summary>
-        <img src="assets/appointment.png" alt="預約表單" width="700"height="400">
-        <img src="assets/record.png" alt="預約紀錄" width="700" height="400">
-    </details>
+預約表單填寫
+![預約表單](assets/appointment.png)
 
-- Gmail預約通知
-    <details>
-        <summary>查看圖片</summary>
-        <p align="">
-            <img src="assets/mail1.jpg" alt="系統架構圖" width="300" height="300">
-            <img src="assets/mail2.jpg" alt="系統架構圖" width="300" height="300">
-        </p>
-    </details>
+後台申請名單顯示
+![表單後台](assets/record.png)
+
+
+Gmail預約通知
+<p align="center">
+    <img src="assets/mail1.jpg">
+    <img src="assets/mail2.jpg">
+</p>
