@@ -1,7 +1,7 @@
 <h1 align="center">Professor personal website</h1>
 
 <p align="center">
-  該專案為建立教授個人網站，並且可由後台進行資料維護 | <a href="https://youtu.be/bMsJG-BecxE" target="_blank">Demo 影片</a><br>
+  該專案為建立教授個人專屬網站，並且可由後台進行資料維護 | <a href="https://youtu.be/bMsJG-BecxE" target="_blank">Demo 影片</a><br>
   內容資料來源為 <a href="https://www.iecs.fcu.edu.tw/teacher/#FT" target="_blank">逢甲大學系所成員</a> 公開資訊
 </p>
 
